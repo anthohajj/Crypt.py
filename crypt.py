@@ -1,3 +1,4 @@
+# Ce programme est la propriété privée d'Anthony El Hajj et sa publication ou sa vente/location est interdite.
 import colorama
 from colorama import Fore
 from colorama import Style
